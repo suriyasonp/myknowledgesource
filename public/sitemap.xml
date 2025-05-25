@@ -2,40 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/search/</loc>
-    <lastmod>2025-05-25T19:54:42+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-25T19:54:42+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2025-05-25T19:54:41+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/archives/</loc>
-    <lastmod>2025-05-25T19:54:41+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/blog/</loc>
-    <lastmod>2025-05-25T10:00:00+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-05-25T10:00:00+07:00</lastmod>
+    <lastmod>2025-05-25T21:25:45+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/first-post/</loc>
-    <lastmod>2025-05-25T10:00:00+07:00</lastmod>
+    <loc>http://localhost:1313/categories/connection/</loc>
+    <lastmod>2025-05-25T21:25:45+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/general/</loc>
-    <lastmod>2025-05-25T10:00:00+07:00</lastmod>
+    <loc>http://localhost:1313/categories/mind/</loc>
+    <lastmod>2025-05-25T21:25:45+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2025-05-25T10:00:00+07:00</lastmod>
+    <loc>http://localhost:1313/tags/mindfulness/</loc>
+    <lastmod>2025-05-25T21:25:45+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2025-05-25T10:00:00+07:00</lastmod>
+    <loc>http://localhost:1313/categories/nature/</loc>
+    <lastmod>2025-05-25T21:25:45+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nature/</loc>
+    <lastmod>2025-05-25T21:25:45+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/philosophy/</loc>
+    <lastmod>2025-05-25T21:25:45+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/philosophy/</loc>
+    <lastmod>2025-05-25T21:25:45+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-05-25T10:00:00+07:00</lastmod>
+    <lastmod>2025-05-25T21:25:45+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/psychology/</loc>
+    <lastmod>2025-05-25T21:25:45+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-05-25T10:00:00+07:00</lastmod>
+    <lastmod>2025-05-25T21:25:45+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-05-25T21:25:45+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025-05-25-mind-and-nature/</loc>
+    <lastmod>2025-05-25T21:25:45+07:00</lastmod>
   </url>
 </urlset>
