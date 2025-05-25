@@ -89,3 +89,6 @@ enableEmoji = true
     guessSyntax = true
     lineNos = true
     style = "github"
+  
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
