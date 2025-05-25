@@ -1,3 +1,4 @@
-baseURL = 'https://www.suriyasonphu.com/'
-languageCode = 'en-us'
-title = 'TECHFOR by Suriya Sonphu'
+baseURL = "https://suriyasonphu.com"
+languageCode = "en"
+title = "My Knowledge Source"
+theme = "PaperMod"

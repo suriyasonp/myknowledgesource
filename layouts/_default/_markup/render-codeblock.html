@@ -1,0 +1,7 @@
+{{- $lang := .Type | default "text" -}}
+{{- $code := .Inner | safeHTML -}}
+<div class="highlight">
+  <pre tabindex="0" class="chroma">
+    <code class="language-{{ $lang }}" data-lang="{{ $lang }}">{{ $code }}</code>
+  </pre>
+</div>
