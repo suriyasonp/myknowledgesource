@@ -3,8 +3,13 @@ languageCode = "en"
 title = "TECHFOR by suriyasonphu"
 theme = "PaperMod"
 
+# Taxonomy configuration
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
 # PaperMod specific configurations
-Pagination.paperSize = 5
+paginate = 5
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
@@ -24,14 +29,14 @@ enableEmoji = true
   DateFormat = "January 2, 2006"
   defaultTheme = "auto"
   disableThemeToggle = false
-  
+
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   ShowWordCount = true
-  ShowRssButtonInSectionTermList = false
+  ShowRssButtonInSectionTermList = true
   UseHugoToc = true
   disableSpecial1stPost = false
   disableScrollToTop = false
@@ -57,6 +62,24 @@ enableEmoji = true
     name = "Posts"
     url = "/posts/"
     weight = 20
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "stay-reading"
+    name = "Stay Reading"
+    url = "/categories/stay-reading/"
+    weight = 50
+  
+  [[menu.main]]
+    identifier = "technologies"
+    name = "Technology"
+    url = "/categories/technology/"
+    weight = 40
+  
 
 [markup]
   [markup.highlight]
