@@ -27,7 +27,7 @@ cover:
     relative: false
     hidden: true
 editPost:
-    URL: "https://github.com/suriyasonp/myknowledgesource/tree/main/content"
+    URL: "https://github.com/suriyasonp/myknowledgesource/content"
     Text: "Suggest Changes"
     appendFilePath: true
 ---
