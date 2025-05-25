@@ -3,6 +3,8 @@ languageCode = "en"
 title = "TECHFOR by suriyasonphu"
 theme = "PaperMod"
 
+enableRobotsTXT = true
+
 # Taxonomy configuration
 [taxonomies]
   category = "categories"
@@ -22,9 +24,8 @@ enableEmoji = true
 
 [params]
   env = "production"
-  title = "TECHFOR by suriyasonphu"
-  description = "A blog about technology and knowledge sharing"
-  keywords = ["blog", "technology", "programming", "Dailylife"]
+  description = "A blog about technology and knowledge sharing by Suriya Sonphu | บล็อกนี้ใช้สำหรับแบ่งปันความรู้ทั่วไปที่เกิดจากการอ่านและศึกษาอย่างไม่สิ้นสุด หมวดหมู่พัฒนาตนเอง จิตวิทยา เทคโนโลยี การเขียนโปรแกรม"
+  keywords = ["สุริยา สนภู่", "suriyasonphu", "Suriya Sonphu" ,"blog", "technology", "programming", "dailylife", "reading"]
   author = "Suriya Sonphu"
   DateFormat = "January 2, 2006"
   defaultTheme = "auto"
