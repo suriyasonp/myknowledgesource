@@ -26,10 +26,6 @@ cover:
     caption: "คุณเคยรู้สึกไหมว่า ยามคุณรู้สึกสนุกสนาน คิดถึง เสียใจ ธรรมชาติมักตอบสนองเราไม่ว่าทางใดก็ทางหนึ่ง เช่น แดดยามเช้าทำให้รู้สึกวันนี้เป็นวันที่ดี เป็นต้น เราลองมาดศึกษาในเชิงจิตวิทยา จิตใจมนุษย์มีความเชื่อมโยงกับธรรมชาติอย่างไร"
     relative: false
     hidden: false
-editPost:
-    URL: "https://github.com/suriyasonp/myknowledgesource/content"
-    Text: "Suggest Changes"
-    appendFilePath: true
 ---
 
 # จิตกับธรรมชาติ เชื่อมโยงกันอย่างไร?
