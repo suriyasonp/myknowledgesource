@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on TECHFOR by suriyasonphu</title>
-        <link>http://localhost:50092/categories/</link>
+        <link>http://localhost:50214/categories/</link>
         <description>Recent content in Categories on TECHFOR by suriyasonphu</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Wed, 28 May 2025 10:00:00 +0700</lastBuildDate><atom:link href="http://localhost:50092/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 28 May 2025 10:00:00 +0700</lastBuildDate><atom:link href="http://localhost:50214/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Technology</title>
-        <link>http://localhost:50092/categories/technology/</link>
+        <link>http://localhost:50214/categories/technology/</link>
         <pubDate>Wed, 28 May 2025 10:00:00 +0700</pubDate>
         
-        <guid>http://localhost:50092/categories/technology/</guid>
+        <guid>http://localhost:50214/categories/technology/</guid>
         <description></description>
         </item>
         <item>
         <title>Stay Reading</title>
-        <link>http://localhost:50092/categories/stay-reading/</link>
+        <link>http://localhost:50214/categories/stay-reading/</link>
         <pubDate>Tue, 27 May 2025 15:30:00 +0700</pubDate>
         
-        <guid>http://localhost:50092/categories/stay-reading/</guid>
+        <guid>http://localhost:50214/categories/stay-reading/</guid>
         <description></description>
         </item>
         <item>
         <title>Test</title>
-        <link>http://localhost:50092/categories/test/</link>
+        <link>http://localhost:50214/categories/test/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:50092/categories/test/</guid>
-        <description>&lt;img src="http://localhost:50092/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>http://localhost:50214/categories/test/</guid>
+        <description>&lt;img src="http://localhost:50214/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
         </item>
         
     </channel>

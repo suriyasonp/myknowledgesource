@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on TECHFOR by suriyasonphu</title>
-        <link>http://localhost:50092/page/</link>
+        <link>http://localhost:50214/page/</link>
         <description>Recent content in Pages on TECHFOR by suriyasonphu</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:50092/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:50214/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
-        <link>http://localhost:50092/page/about/</link>
+        <link>http://localhost:50214/page/about/</link>
         <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:50092/page/about/</guid>
+        <guid>http://localhost:50214/page/about/</guid>
         <description>&lt;h1 id=&#34;about-techfor-blog&#34;&gt;About TECHFOR Blog
 &lt;/h1&gt;&lt;p&gt;This is a blog about technology and knowledge sharing by Suriya Sonphu. The blog covers various topics including technology, programming, self-development, psychology, and reading.&lt;/p&gt;
 &lt;h2 id=&#34;about-the-author&#34;&gt;About the Author
@@ -30,18 +30,18 @@
         </item>
         <item>
         <title>Archives</title>
-        <link>http://localhost:50092/page/archives/</link>
+        <link>http://localhost:50214/page/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:50092/page/archives/</guid>
+        <guid>http://localhost:50214/page/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Links</title>
-        <link>http://localhost:50092/page/links/</link>
+        <link>http://localhost:50214/page/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:50092/page/links/</guid>
+        <guid>http://localhost:50214/page/links/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;
@@ -62,10 +62,10 @@
         </item>
         <item>
         <title>Search</title>
-        <link>http://localhost:50092/page/search/</link>
+        <link>http://localhost:50214/page/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:50092/page/search/</guid>
+        <guid>http://localhost:50214/page/search/</guid>
         <description></description>
         </item>
         

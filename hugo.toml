@@ -127,4 +127,4 @@ buildExpired = false
     style = "github"
   
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS"]
