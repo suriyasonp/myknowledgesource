@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>TECHFOR by suriyasonphu</title>
-        <link>http://localhost:50214/</link>
+        <link>http://localhost:1313/</link>
         <description>Recent content on TECHFOR by suriyasonphu</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:50214/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
-        <link>http://localhost:50214/page/about/</link>
+        <link>http://localhost:1313/page/about/</link>
         <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:50214/page/about/</guid>
+        <guid>http://localhost:1313/page/about/</guid>
         <description>&lt;h1 id=&#34;about-techfor-blog&#34;&gt;About TECHFOR Blog
 &lt;/h1&gt;&lt;p&gt;This is a blog about technology and knowledge sharing by Suriya Sonphu. The blog covers various topics including technology, programming, self-development, psychology, and reading.&lt;/p&gt;
 &lt;h2 id=&#34;about-the-author&#34;&gt;About the Author
@@ -30,10 +30,10 @@
         </item>
         <item>
         <title>The Future of Web Development</title>
-        <link>http://localhost:50214/post/future-web-development/</link>
+        <link>http://localhost:1313/post/future-web-development/</link>
         <pubDate>Wed, 28 May 2025 10:00:00 +0700</pubDate>
         
-        <guid>http://localhost:50214/post/future-web-development/</guid>
+        <guid>http://localhost:1313/post/future-web-development/</guid>
         <description>&lt;h1 id=&#34;the-future-of-web-development&#34;&gt;The Future of Web Development
 &lt;/h1&gt;&lt;p&gt;Web development continues to evolve at a rapid pace, with new frameworks, tools, and methodologies emerging regularly. In this post, we&amp;rsquo;ll explore the current trends and what the future holds for web developers.&lt;/p&gt;
 &lt;h2 id=&#34;current-trends&#34;&gt;Current Trends
@@ -79,10 +79,10 @@
         </item>
         <item>
         <title>วิถีแห่งการเรียนรู้ตลอดชีวิต</title>
-        <link>http://localhost:50214/post/lifelong-learning/</link>
+        <link>http://localhost:1313/post/lifelong-learning/</link>
         <pubDate>Tue, 27 May 2025 15:30:00 +0700</pubDate>
         
-        <guid>http://localhost:50214/post/lifelong-learning/</guid>
+        <guid>http://localhost:1313/post/lifelong-learning/</guid>
         <description>&lt;h1 id=&#34;วถแหงการเรยนรตลอดชวต&#34;&gt;วิถีแห่งการเรียนรู้ตลอดชีวิต
 &lt;/h1&gt;&lt;p&gt;การเรียนรู้เป็นสิ่งที่สำคัญที่สุดในชีวิต ไม่ใช่เพียงแค่ในห้องเรียน แต่เป็นกระบวนการที่ต่อเนื่องตลอดชีวิต&lt;/p&gt;
 &lt;h2 id=&#34;ทำไมการเรยนรตลอดชวตจงสำคญ&#34;&gt;ทำไมการเรียนรู้ตลอดชีวิตจึงสำคัญ
@@ -142,10 +142,10 @@
         </item>
         <item>
         <title>Getting Started with Machine Learning</title>
-        <link>http://localhost:50214/post/machine-learning-basics/</link>
+        <link>http://localhost:1313/post/machine-learning-basics/</link>
         <pubDate>Mon, 26 May 2025 14:20:00 +0700</pubDate>
         
-        <guid>http://localhost:50214/post/machine-learning-basics/</guid>
+        <guid>http://localhost:1313/post/machine-learning-basics/</guid>
         <description>&lt;h1 id=&#34;getting-started-with-machine-learning&#34;&gt;Getting Started with Machine Learning
 &lt;/h1&gt;&lt;p&gt;Machine Learning (ML) has become one of the most exciting and rapidly growing fields in technology. This guide will help you understand the basics and get started on your ML journey.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-machine-learning&#34;&gt;What is Machine Learning?
@@ -262,10 +262,10 @@
         </item>
         <item>
         <title>Introduction to Artificial Intelligence</title>
-        <link>http://localhost:50214/post/tech-introduction-to-ai/</link>
+        <link>http://localhost:1313/post/tech-introduction-to-ai/</link>
         <pubDate>Sun, 25 May 2025 22:00:00 +0700</pubDate>
         
-        <guid>http://localhost:50214/post/tech-introduction-to-ai/</guid>
+        <guid>http://localhost:1313/post/tech-introduction-to-ai/</guid>
         <description>&lt;h1 id=&#34;introduction-to-artificial-intelligence&#34;&gt;Introduction to Artificial Intelligence
 &lt;/h1&gt;&lt;p&gt;Artificial Intelligence (AI) is transforming our world in ways we could only imagine a few decades ago. From smartphones to self-driving cars, AI is increasingly becoming an integral part of our daily lives.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-artificial-intelligence&#34;&gt;What is Artificial Intelligence?
@@ -366,10 +366,10 @@
         </item>
         <item>
         <title>จิตกับธรรมชาติ เชื่อมโยงกันอย่างไร?</title>
-        <link>http://localhost:50214/post/mind-and-nature/</link>
+        <link>http://localhost:1313/post/mind-and-nature/</link>
         <pubDate>Sun, 25 May 2025 21:25:45 +0700</pubDate>
         
-        <guid>http://localhost:50214/post/mind-and-nature/</guid>
+        <guid>http://localhost:1313/post/mind-and-nature/</guid>
         <description>&lt;h1 id=&#34;จตกบธรรมชาต-เชอมโยงกนอยางไร&#34;&gt;จิตกับธรรมชาติ เชื่อมโยงกันอย่างไร?
 &lt;/h1&gt;&lt;p&gt;ความสัมพันธ์ระหว่างจิตใจมนุษย์กับธรรมชาติเป็นเรื่องที่น่าสนใจมาตั้งแต่อดีต นักปรัชญา กวี และนักวิทยาศาสตร์ต่างก็พยายามทำความเข้าใจความเชื่อมโยงอันลึกซึ้งนี้&lt;/p&gt;
 &lt;h2 id=&#34;การสะทอนอารมณผานธรรมชาต&#34;&gt;การสะท้อนอารมณ์ผ่านธรรมชาติ
@@ -410,10 +410,10 @@
         </item>
         <item>
         <title>การพัฒนาจิตใจผ่านการอ่าน</title>
-        <link>http://localhost:50214/post/reading-mindfulness/</link>
+        <link>http://localhost:1313/post/reading-mindfulness/</link>
         <pubDate>Sat, 24 May 2025 09:15:00 +0700</pubDate>
         
-        <guid>http://localhost:50214/post/reading-mindfulness/</guid>
+        <guid>http://localhost:1313/post/reading-mindfulness/</guid>
         <description>&lt;h1 id=&#34;การพฒนาจตใจผานการอาน&#34;&gt;การพัฒนาจิตใจผ่านการอ่าน
 &lt;/h1&gt;&lt;p&gt;การอ่านเป็นมากกว่าการรับรู้ข้อมูล เป็นการเดินทางเข้าไปในโลกภายในและการเชื่อมต่อกับความเป็นมนุษย์&lt;/p&gt;
 &lt;h2 id=&#34;พลงของการอานตอจตใจ&#34;&gt;พลังของการอ่านต่อจิตใจ
@@ -437,18 +437,18 @@
         </item>
         <item>
         <title>Archives</title>
-        <link>http://localhost:50214/page/archives/</link>
+        <link>http://localhost:1313/page/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:50214/page/archives/</guid>
+        <guid>http://localhost:1313/page/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Links</title>
-        <link>http://localhost:50214/page/links/</link>
+        <link>http://localhost:1313/page/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:50214/page/links/</guid>
+        <guid>http://localhost:1313/page/links/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;
@@ -469,10 +469,10 @@
         </item>
         <item>
         <title>Search</title>
-        <link>http://localhost:50214/page/search/</link>
+        <link>http://localhost:1313/page/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:50214/page/search/</guid>
+        <guid>http://localhost:1313/page/search/</guid>
         <description></description>
         </item>
         

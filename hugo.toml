@@ -44,22 +44,22 @@ buildExpired = false
     emoji = "🧠"
     subtitle = "Knowledge sharing blog about technology and life"
     
-    [params.sidebar.avatar]
-      enabled = false
-      local = false
-      src = ""
+  [params.sidebar.avatar]
+    enabled = true
+    local = false
+    src = "/assets/favicon/android-chrome-192x192.png"
 
   [params.article]
     math = false
     readingTime = true
     
-    [params.article.toc]
-      enabled = true
-    
-    [params.article.code]
-      copy = true
-      maxLines = 50
-      style = "github"
+  [params.article.toc]
+    enabled = true
+  
+  [params.article.code]
+    copy = true
+    maxLines = 50
+    style = "github"
 
   [params.comments]
     enabled = false
@@ -67,22 +67,23 @@ buildExpired = false
   [params.widgets]
     enabled = ["search", "archives", "tag-cloud", "categories"]
     
-    [params.widgets.archives]
-      limit = 5
-      
-    [params.widgets.tagCloud]
-      limit = 20
+  [params.widgets.archives]
+    limit = 5
+    
+  [params.widgets.tagCloud]
+    limit = 20
 
-    [params.widgets.categories]
-      limit = 10
+  [params.widgets.categories]
+    limit = 10
 
 # Menu navigation
 [menu]
+      
   [[menu.main]]
     identifier = "home"
     name = "Home"
     url = "/"
-    weight = 10
+    weight = 1  # Fourth position
     [menu.main.params]
       icon = "home"
       
@@ -90,7 +91,7 @@ buildExpired = false
     identifier = "posts"
     name = "Posts"
     url = "/post/"
-    weight = 20
+    weight = 2  # Fifth position
     [menu.main.params]
       icon = "archives"
       
@@ -98,25 +99,26 @@ buildExpired = false
     identifier = "categories"
     name = "Categories"
     url = "/categories/"
-    weight = 30
+    weight = 3  # Sixth position
     [menu.main.params]
       icon = "categories"
 
   [[menu.main]]
-    identifier = "stay-reading"
-    name = "Stay Reading"
-    url = "/categories/stay-reading/"
-    weight = 50
-    [menu.main.params]
-      icon = "messages"
-  
-  [[menu.main]]
     identifier = "technologies"
     name = "Technology"
     url = "/categories/technology/"
-    weight = 40
+    weight = 4  # Seventh position
     [menu.main.params]
       icon = "hash"
+  
+  [[menu.main]]
+    identifier = "stay-reading"
+    name = "Stay Reading"
+    url = "/categories/stay-reading/"
+    weight = 5  # Eighth position
+    [menu.main.params]
+      icon = "messages"
+  
 
 [markup]
   [markup.highlight]
