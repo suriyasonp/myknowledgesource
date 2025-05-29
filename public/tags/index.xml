@@ -2,200 +2,200 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on TECHFOR by suriyasonphu</title>
-        <link>http://localhost:1313/tags/</link>
+        <link>http://localhost:50694/tags/</link>
         <description>Recent content in Tags on TECHFOR by suriyasonphu</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Wed, 28 May 2025 10:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 28 May 2025 10:00:00 +0700</lastBuildDate><atom:link href="http://localhost:50694/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Backend</title>
-        <link>http://localhost:1313/tags/backend/</link>
+        <link>http://localhost:50694/tags/backend/</link>
         <pubDate>Wed, 28 May 2025 10:00:00 +0700</pubDate>
         
-        <guid>http://localhost:1313/tags/backend/</guid>
+        <guid>http://localhost:50694/tags/backend/</guid>
         <description></description>
         </item>
         <item>
         <title>Frameworks</title>
-        <link>http://localhost:1313/tags/frameworks/</link>
+        <link>http://localhost:50694/tags/frameworks/</link>
         <pubDate>Wed, 28 May 2025 10:00:00 +0700</pubDate>
         
-        <guid>http://localhost:1313/tags/frameworks/</guid>
+        <guid>http://localhost:50694/tags/frameworks/</guid>
         <description></description>
         </item>
         <item>
         <title>Frontend</title>
-        <link>http://localhost:1313/tags/frontend/</link>
+        <link>http://localhost:50694/tags/frontend/</link>
         <pubDate>Wed, 28 May 2025 10:00:00 +0700</pubDate>
         
-        <guid>http://localhost:1313/tags/frontend/</guid>
+        <guid>http://localhost:50694/tags/frontend/</guid>
         <description></description>
         </item>
         <item>
         <title>Javascript</title>
-        <link>http://localhost:1313/tags/javascript/</link>
+        <link>http://localhost:50694/tags/javascript/</link>
         <pubDate>Wed, 28 May 2025 10:00:00 +0700</pubDate>
         
-        <guid>http://localhost:1313/tags/javascript/</guid>
+        <guid>http://localhost:50694/tags/javascript/</guid>
         <description></description>
         </item>
         <item>
         <title>Web-Development</title>
-        <link>http://localhost:1313/tags/web-development/</link>
+        <link>http://localhost:50694/tags/web-development/</link>
         <pubDate>Wed, 28 May 2025 10:00:00 +0700</pubDate>
         
-        <guid>http://localhost:1313/tags/web-development/</guid>
+        <guid>http://localhost:50694/tags/web-development/</guid>
         <description></description>
         </item>
         <item>
         <title>Growth</title>
-        <link>http://localhost:1313/tags/growth/</link>
+        <link>http://localhost:50694/tags/growth/</link>
         <pubDate>Tue, 27 May 2025 15:30:00 +0700</pubDate>
         
-        <guid>http://localhost:1313/tags/growth/</guid>
+        <guid>http://localhost:50694/tags/growth/</guid>
         <description></description>
         </item>
         <item>
         <title>Learning</title>
-        <link>http://localhost:1313/tags/learning/</link>
+        <link>http://localhost:50694/tags/learning/</link>
         <pubDate>Tue, 27 May 2025 15:30:00 +0700</pubDate>
         
-        <guid>http://localhost:1313/tags/learning/</guid>
+        <guid>http://localhost:50694/tags/learning/</guid>
         <description></description>
         </item>
         <item>
         <title>Mindset</title>
-        <link>http://localhost:1313/tags/mindset/</link>
+        <link>http://localhost:50694/tags/mindset/</link>
         <pubDate>Tue, 27 May 2025 15:30:00 +0700</pubDate>
         
-        <guid>http://localhost:1313/tags/mindset/</guid>
+        <guid>http://localhost:50694/tags/mindset/</guid>
         <description></description>
         </item>
         <item>
         <title>Self-Development</title>
-        <link>http://localhost:1313/tags/self-development/</link>
+        <link>http://localhost:50694/tags/self-development/</link>
         <pubDate>Tue, 27 May 2025 15:30:00 +0700</pubDate>
         
-        <guid>http://localhost:1313/tags/self-development/</guid>
+        <guid>http://localhost:50694/tags/self-development/</guid>
         <description></description>
         </item>
         <item>
         <title>AI</title>
-        <link>http://localhost:1313/tags/ai/</link>
+        <link>http://localhost:50694/tags/ai/</link>
         <pubDate>Mon, 26 May 2025 14:20:00 +0700</pubDate>
         
-        <guid>http://localhost:1313/tags/ai/</guid>
+        <guid>http://localhost:50694/tags/ai/</guid>
         <description></description>
         </item>
         <item>
         <title>Algorithms</title>
-        <link>http://localhost:1313/tags/algorithms/</link>
+        <link>http://localhost:50694/tags/algorithms/</link>
         <pubDate>Mon, 26 May 2025 14:20:00 +0700</pubDate>
         
-        <guid>http://localhost:1313/tags/algorithms/</guid>
+        <guid>http://localhost:50694/tags/algorithms/</guid>
         <description></description>
         </item>
         <item>
         <title>Data-Science</title>
-        <link>http://localhost:1313/tags/data-science/</link>
+        <link>http://localhost:50694/tags/data-science/</link>
         <pubDate>Mon, 26 May 2025 14:20:00 +0700</pubDate>
         
-        <guid>http://localhost:1313/tags/data-science/</guid>
+        <guid>http://localhost:50694/tags/data-science/</guid>
         <description></description>
         </item>
         <item>
         <title>Machine-Learning</title>
-        <link>http://localhost:1313/tags/machine-learning/</link>
+        <link>http://localhost:50694/tags/machine-learning/</link>
         <pubDate>Mon, 26 May 2025 14:20:00 +0700</pubDate>
         
-        <guid>http://localhost:1313/tags/machine-learning/</guid>
+        <guid>http://localhost:50694/tags/machine-learning/</guid>
         <description></description>
         </item>
         <item>
         <title>Python</title>
-        <link>http://localhost:1313/tags/python/</link>
+        <link>http://localhost:50694/tags/python/</link>
         <pubDate>Mon, 26 May 2025 14:20:00 +0700</pubDate>
         
-        <guid>http://localhost:1313/tags/python/</guid>
+        <guid>http://localhost:50694/tags/python/</guid>
         <description></description>
         </item>
         <item>
         <title>Programming</title>
-        <link>http://localhost:1313/tags/programming/</link>
+        <link>http://localhost:50694/tags/programming/</link>
         <pubDate>Sun, 25 May 2025 22:00:00 +0700</pubDate>
         
-        <guid>http://localhost:1313/tags/programming/</guid>
+        <guid>http://localhost:50694/tags/programming/</guid>
         <description></description>
         </item>
         <item>
         <title>Technology</title>
-        <link>http://localhost:1313/tags/technology/</link>
+        <link>http://localhost:50694/tags/technology/</link>
         <pubDate>Sun, 25 May 2025 22:00:00 +0700</pubDate>
         
-        <guid>http://localhost:1313/tags/technology/</guid>
+        <guid>http://localhost:50694/tags/technology/</guid>
         <description></description>
         </item>
         <item>
         <title>Mindfulness</title>
-        <link>http://localhost:1313/tags/mindfulness/</link>
+        <link>http://localhost:50694/tags/mindfulness/</link>
         <pubDate>Sun, 25 May 2025 21:25:45 +0700</pubDate>
         
-        <guid>http://localhost:1313/tags/mindfulness/</guid>
+        <guid>http://localhost:50694/tags/mindfulness/</guid>
         <description></description>
         </item>
         <item>
         <title>Nature</title>
-        <link>http://localhost:1313/tags/nature/</link>
+        <link>http://localhost:50694/tags/nature/</link>
         <pubDate>Sun, 25 May 2025 21:25:45 +0700</pubDate>
         
-        <guid>http://localhost:1313/tags/nature/</guid>
+        <guid>http://localhost:50694/tags/nature/</guid>
         <description></description>
         </item>
         <item>
         <title>Philosophy</title>
-        <link>http://localhost:1313/tags/philosophy/</link>
+        <link>http://localhost:50694/tags/philosophy/</link>
         <pubDate>Sun, 25 May 2025 21:25:45 +0700</pubDate>
         
-        <guid>http://localhost:1313/tags/philosophy/</guid>
+        <guid>http://localhost:50694/tags/philosophy/</guid>
         <description></description>
         </item>
         <item>
         <title>Psychology</title>
-        <link>http://localhost:1313/tags/psychology/</link>
+        <link>http://localhost:50694/tags/psychology/</link>
         <pubDate>Sun, 25 May 2025 21:25:45 +0700</pubDate>
         
-        <guid>http://localhost:1313/tags/psychology/</guid>
+        <guid>http://localhost:50694/tags/psychology/</guid>
         <description></description>
         </item>
         <item>
         <title>Books</title>
-        <link>http://localhost:1313/tags/books/</link>
+        <link>http://localhost:50694/tags/books/</link>
         <pubDate>Sat, 24 May 2025 09:15:00 +0700</pubDate>
         
-        <guid>http://localhost:1313/tags/books/</guid>
+        <guid>http://localhost:50694/tags/books/</guid>
         <description></description>
         </item>
         <item>
         <title>Meditation</title>
-        <link>http://localhost:1313/tags/meditation/</link>
+        <link>http://localhost:50694/tags/meditation/</link>
         <pubDate>Sat, 24 May 2025 09:15:00 +0700</pubDate>
         
-        <guid>http://localhost:1313/tags/meditation/</guid>
+        <guid>http://localhost:50694/tags/meditation/</guid>
         <description></description>
         </item>
         <item>
         <title>Personal-Growth</title>
-        <link>http://localhost:1313/tags/personal-growth/</link>
+        <link>http://localhost:50694/tags/personal-growth/</link>
         <pubDate>Sat, 24 May 2025 09:15:00 +0700</pubDate>
         
-        <guid>http://localhost:1313/tags/personal-growth/</guid>
+        <guid>http://localhost:50694/tags/personal-growth/</guid>
         <description></description>
         </item>
         <item>
         <title>Reading</title>
-        <link>http://localhost:1313/tags/reading/</link>
+        <link>http://localhost:50694/tags/reading/</link>
         <pubDate>Sat, 24 May 2025 09:15:00 +0700</pubDate>
         
-        <guid>http://localhost:1313/tags/reading/</guid>
+        <guid>http://localhost:50694/tags/reading/</guid>
         <description></description>
         </item>
         

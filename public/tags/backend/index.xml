@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Backend on TECHFOR by suriyasonphu</title>
-        <link>http://localhost:1313/tags/backend/</link>
+        <link>http://localhost:50694/tags/backend/</link>
         <description>Recent content in Backend on TECHFOR by suriyasonphu</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Wed, 28 May 2025 10:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/backend/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 28 May 2025 10:00:00 +0700</lastBuildDate><atom:link href="http://localhost:50694/tags/backend/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>The Future of Web Development</title>
-        <link>http://localhost:1313/post/future-web-development/</link>
+        <link>http://localhost:50694/post/future-web-development/</link>
         <pubDate>Wed, 28 May 2025 10:00:00 +0700</pubDate>
         
-        <guid>http://localhost:1313/post/future-web-development/</guid>
+        <guid>http://localhost:50694/post/future-web-development/</guid>
         <description>&lt;h1 id=&#34;the-future-of-web-development&#34;&gt;The Future of Web Development
 &lt;/h1&gt;&lt;p&gt;Web development continues to evolve at a rapid pace, with new frameworks, tools, and methodologies emerging regularly. In this post, we&amp;rsquo;ll explore the current trends and what the future holds for web developers.&lt;/p&gt;
 &lt;h2 id=&#34;current-trends&#34;&gt;Current Trends

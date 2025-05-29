@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Programming on TECHFOR by suriyasonphu</title>
-        <link>http://localhost:1313/tags/programming/</link>
+        <link>http://localhost:50694/tags/programming/</link>
         <description>Recent content in Programming on TECHFOR by suriyasonphu</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sun, 25 May 2025 22:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/programming/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 25 May 2025 22:00:00 +0700</lastBuildDate><atom:link href="http://localhost:50694/tags/programming/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Introduction to Artificial Intelligence</title>
-        <link>http://localhost:1313/post/tech-introduction-to-ai/</link>
+        <link>http://localhost:50694/post/tech-introduction-to-ai/</link>
         <pubDate>Sun, 25 May 2025 22:00:00 +0700</pubDate>
         
-        <guid>http://localhost:1313/post/tech-introduction-to-ai/</guid>
+        <guid>http://localhost:50694/post/tech-introduction-to-ai/</guid>
         <description>&lt;h1 id=&#34;introduction-to-artificial-intelligence&#34;&gt;Introduction to Artificial Intelligence
 &lt;/h1&gt;&lt;p&gt;Artificial Intelligence (AI) is transforming our world in ways we could only imagine a few decades ago. From smartphones to self-driving cars, AI is increasingly becoming an integral part of our daily lives.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-artificial-intelligence&#34;&gt;What is Artificial Intelligence?
