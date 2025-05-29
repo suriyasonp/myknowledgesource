@@ -1,0 +1,9 @@
+{{- /* Head custom content area start */ -}}
+{{- /* Custom CSS for home page layout */ -}}
+{{- $customCSS := resources.Get "css/custom.css" }}
+{{- if $customCSS }}
+{{- $customCSS := $customCSS | resources.Minify }}
+<link rel="stylesheet" href="{{ $customCSS.RelPermalink }}" integrity="{{ $customCSS.Data.Integrity }}"
+    crossorigin="anonymous">
+{{- end }}
+{{- /* Head custom content area end */ -}}

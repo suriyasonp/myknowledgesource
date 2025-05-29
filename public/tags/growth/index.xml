@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Growth on TECHFOR by suriyasonphu</title>
+    <link>http://localhost:1313/tags/growth/</link>
+    <description>Recent content in Growth on TECHFOR by suriyasonphu</description>
+    <generator>Hugo -- 0.147.5</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 27 May 2025 15:30:00 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/growth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>วิถีแห่งการเรียนรู้ตลอดชีวิต</title>
+      <link>http://localhost:1313/posts/2025-05-27-lifelong-learning/</link>
+      <pubDate>Tue, 27 May 2025 15:30:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2025-05-27-lifelong-learning/</guid>
+      <description>การเรียนรู้ไม่ใช่เรื่องที่สิ้นสุดเมื่อจบการศึกษา แต่เป็นการเดินทางที่ยาวนานตลอดชีวิต เรามาดูกันว่าจะสร้างนิสัยการเรียนรู้อย่างต่อเนื่องได้อย่างไร</description>
+    </item>
+  </channel>
+</rss>

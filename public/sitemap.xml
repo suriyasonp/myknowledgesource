@@ -2,31 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/ai/</loc>
-    <lastmod>2025-05-25T22:00:00+07:00</lastmod>
+    <loc>http://localhost:1313/tags/backend/</loc>
+    <lastmod>2025-05-28T10:00:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-05-25T22:00:00+07:00</lastmod>
+    <lastmod>2025-05-28T10:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/frameworks/</loc>
+    <lastmod>2025-05-28T10:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/frontend/</loc>
+    <lastmod>2025-05-28T10:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/javascript/</loc>
+    <lastmod>2025-05-28T10:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-05-28T10:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-05-28T10:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-05-28T10:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/technology/</loc>
+    <lastmod>2025-05-28T10:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025-05-28-future-web-development/</loc>
+    <lastmod>2025-05-28T10:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/web-development/</loc>
+    <lastmod>2025-05-28T10:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/growth/</loc>
+    <lastmod>2025-05-27T15:30:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/learning/</loc>
+    <lastmod>2025-05-27T15:30:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mindset/</loc>
+    <lastmod>2025-05-27T15:30:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/self-development/</loc>
+    <lastmod>2025-05-27T15:30:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/stay-reading/</loc>
+    <lastmod>2025-05-27T15:30:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025-05-27-lifelong-learning/</loc>
+    <lastmod>2025-05-27T15:30:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ai/</loc>
+    <lastmod>2025-05-26T14:20:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/algorithms/</loc>
+    <lastmod>2025-05-26T14:20:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-science/</loc>
+    <lastmod>2025-05-26T14:20:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025-05-26-machine-learning-basics/</loc>
+    <lastmod>2025-05-26T14:20:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/machine-learning/</loc>
+    <lastmod>2025-05-26T14:20:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/python/</loc>
+    <lastmod>2025-05-26T14:20:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025-05-25-tech-introduction-to-ai/</loc>
     <lastmod>2025-05-25T22:00:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/machine-learning/</loc>
-    <lastmod>2025-05-25T22:00:00+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-05-25T22:00:00+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/programming/</loc>
-    <lastmod>2025-05-25T22:00:00+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-05-25T22:00:00+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-25T22:00:00+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/technology/</loc>
     <lastmod>2025-05-25T22:00:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/technology/</loc>
@@ -44,9 +92,6 @@
     <loc>http://localhost:1313/tags/psychology/</loc>
     <lastmod>2025-05-25T21:25:45+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/stay-reading/</loc>
-    <lastmod>2025-05-25T21:25:45+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/2025-05-25-mind-and-nature/</loc>
     <lastmod>2025-05-25T21:25:45+07:00</lastmod>
   </url><url>
@@ -58,6 +103,21 @@
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
     <lastmod>2025-05-25T19:54:41+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/books/</loc>
+    <lastmod>2025-05-24T09:15:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/meditation/</loc>
+    <lastmod>2025-05-24T09:15:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/personal-growth/</loc>
+    <lastmod>2025-05-24T09:15:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/reading/</loc>
+    <lastmod>2025-05-24T09:15:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025-05-24-reading-mindfulness/</loc>
+    <lastmod>2025-05-24T09:15:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/5/</loc>
   </url><url>
