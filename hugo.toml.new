@@ -1,0 +1,129 @@
+baseURL = "https://suriyasonphu.com"
+languageCode = "en"
+title = "TECHFOR by suriyasonphu"
+theme = "hugo-theme-stack"
+
+# Basic settings
+paginate = 5
+rssLimit = 10
+enableRobotsTXT = true
+enableEmoji = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+# Taxonomy configuration
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[minify]
+  disableXML = true
+  minifyOutput = true
+
+# Stack theme parameters
+[params]
+  mainSections = ["post", "posts"]
+  description = "A blog about technology and knowledge sharing by Suriya Sonphu"
+  keywords = ["สุริยา สนภู่", "suriyasonphu", "Suriya Sonphu" ,"blog", "technology", "programming", "dailylife", "reading"]
+  
+  [params.dateFormat]
+    published = "Jan 02, 2006"
+    lastUpdated = "Jan 02, 2006 15:04 MST"
+
+  [params.footer]
+    since = 2023
+    customText = ""
+
+  [params.opengraph]
+    defaultImage = ""
+
+  [params.sidebar]
+    emoji = "🧠"
+    subtitle = "Knowledge sharing blog about technology and life"
+    
+    [params.sidebar.avatar]
+      enabled = false
+      local = false
+      src = ""
+
+  [params.article]
+    math = false
+    readingTime = true
+    
+    [params.article.toc]
+      enabled = true
+    
+    [params.article.code]
+      copy = true
+      maxLines = 50
+      style = "github"
+
+  [params.comments]
+    enabled = false
+
+  [params.widgets]
+    enabled = ["search", "archives", "tag-cloud", "categories"]
+    
+    [params.widgets.archives]
+      limit = 5
+      
+    [params.widgets.tagCloud]
+      limit = 20
+
+    [params.widgets.categories]
+      limit = 10
+
+# Menu navigation
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+    [menu.main.params]
+      icon = "home"
+      
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 20
+    [menu.main.params]
+      icon = "archives"
+      
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    weight = 30
+    [menu.main.params]
+      icon = "categories"
+
+  [[menu.main]]
+    identifier = "stay-reading"
+    name = "Stay Reading"
+    url = "/categories/stay-reading/"
+    weight = 50
+    [menu.main.params]
+      icon = "book"
+  
+  [[menu.main]]
+    identifier = "technologies"
+    name = "Technology"
+    url = "/categories/technology/"
+    weight = 40
+    [menu.main.params]
+      icon = "laptop-code"
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    style = "github"
+  
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

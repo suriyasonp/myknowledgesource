@@ -1,19 +1,115 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Programming on TECHFOR by suriyasonphu</title>
-    <link>http://localhost:1313/tags/programming/</link>
-    <description>Recent content in Programming on TECHFOR by suriyasonphu</description>
-    <generator>Hugo -- 0.147.5</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 25 May 2025 22:00:00 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/programming/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Introduction to Artificial Intelligence</title>
-      <link>http://localhost:1313/posts/2025-05-25-tech-introduction-to-ai/</link>
-      <pubDate>Sun, 25 May 2025 22:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2025-05-25-tech-introduction-to-ai/</guid>
-      <description>A beginner&amp;#39;s guide to understanding AI and its applications in modern technology</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Programming on TECHFOR by suriyasonphu</title>
+        <link>http://localhost:50092/tags/programming/</link>
+        <description>Recent content in Programming on TECHFOR by suriyasonphu</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Sun, 25 May 2025 22:00:00 +0700</lastBuildDate><atom:link href="http://localhost:50092/tags/programming/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Introduction to Artificial Intelligence</title>
+        <link>http://localhost:50092/post/tech-introduction-to-ai/</link>
+        <pubDate>Sun, 25 May 2025 22:00:00 +0700</pubDate>
+        
+        <guid>http://localhost:50092/post/tech-introduction-to-ai/</guid>
+        <description>&lt;h1 id=&#34;introduction-to-artificial-intelligence&#34;&gt;Introduction to Artificial Intelligence
+&lt;/h1&gt;&lt;p&gt;Artificial Intelligence (AI) is transforming our world in ways we could only imagine a few decades ago. From smartphones to self-driving cars, AI is increasingly becoming an integral part of our daily lives.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-artificial-intelligence&#34;&gt;What is Artificial Intelligence?
+&lt;/h2&gt;&lt;p&gt;AI refers to computer systems designed to perform tasks that typically require human intelligence. These tasks include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Learning&lt;/strong&gt;: Acquiring information and rules for using it&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reasoning&lt;/strong&gt;: Using rules to reach approximate or definite conclusions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Self-correction&lt;/strong&gt;: Learning from mistakes and adjusting approaches&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Perception&lt;/strong&gt;: Interpreting sensory inputs (visual, auditory, etc.)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Natural Language Processing&lt;/strong&gt;: Understanding and generating human language&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;types-of-ai&#34;&gt;Types of AI
+&lt;/h2&gt;&lt;p&gt;AI can be categorized in several ways:&lt;/p&gt;
+&lt;h3 id=&#34;based-on-capabilities&#34;&gt;Based on Capabilities
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Narrow AI (Weak AI)&lt;/strong&gt;: Designed for a specific task (e.g., voice assistants)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;General AI (Strong AI)&lt;/strong&gt;: Can perform any intellectual task a human can&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Superintelligent AI&lt;/strong&gt;: Exceeds human intelligence across all fields&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;based-on-functionality&#34;&gt;Based on Functionality
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Reactive Machines&lt;/strong&gt;: React to current situations without past memory&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Limited Memory&lt;/strong&gt;: Use past experiences to inform future decisions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Theory of Mind&lt;/strong&gt;: Understand emotions, beliefs, and intentions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Self-aware AI&lt;/strong&gt;: Have consciousness and understanding of their existence&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;core-technologies&#34;&gt;Core Technologies
+&lt;/h2&gt;&lt;p&gt;AI encompasses several key technologies:&lt;/p&gt;
+&lt;h3 id=&#34;machine-learning&#34;&gt;Machine Learning
+&lt;/h3&gt;&lt;p&gt;Machine Learning (ML) is a subset of AI that enables systems to learn from data without explicit programming. Common ML approaches include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Supervised Learning&lt;/strong&gt;: Learning from labeled examples&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unsupervised Learning&lt;/strong&gt;: Finding patterns in unlabeled data&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reinforcement Learning&lt;/strong&gt;: Learning through trial and error with rewards&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;deep-learning&#34;&gt;Deep Learning
+&lt;/h3&gt;&lt;p&gt;Deep Learning uses neural networks with multiple layers (hence &amp;ldquo;deep&amp;rdquo;) to analyze data. It&amp;rsquo;s particularly effective for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Image and speech recognition&lt;/li&gt;
+&lt;li&gt;Natural language processing&lt;/li&gt;
+&lt;li&gt;Generating creative content&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;applications-of-ai&#34;&gt;Applications of AI
+&lt;/h2&gt;&lt;p&gt;AI has widespread applications across industries:&lt;/p&gt;
+&lt;h3 id=&#34;healthcare&#34;&gt;Healthcare
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Disease diagnosis and prediction&lt;/li&gt;
+&lt;li&gt;Drug discovery and development&lt;/li&gt;
+&lt;li&gt;Personalized treatment plans&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;finance&#34;&gt;Finance
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Fraud detection&lt;/li&gt;
+&lt;li&gt;Algorithmic trading&lt;/li&gt;
+&lt;li&gt;Credit scoring and risk assessment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;transportation&#34;&gt;Transportation
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Self-driving vehicles&lt;/li&gt;
+&lt;li&gt;Traffic optimization&lt;/li&gt;
+&lt;li&gt;Ride-sharing algorithms&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;entertainment&#34;&gt;Entertainment
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Content recommendation&lt;/li&gt;
+&lt;li&gt;Game AI&lt;/li&gt;
+&lt;li&gt;Creative content generation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ethical-considerations&#34;&gt;Ethical Considerations
+&lt;/h2&gt;&lt;p&gt;As AI becomes more powerful, several ethical issues arise:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Privacy&lt;/strong&gt;: AI systems often require vast amounts of data&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bias&lt;/strong&gt;: AI systems can inherit biases from training data&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Job displacement&lt;/strong&gt;: Automation may replace certain jobs&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Security&lt;/strong&gt;: AI systems could be vulnerable to attacks&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accountability&lt;/strong&gt;: Who is responsible when AI makes mistakes?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;getting-started-with-ai&#34;&gt;Getting Started with AI
+&lt;/h2&gt;&lt;p&gt;For those interested in learning AI:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Build a foundation&lt;/strong&gt;: Learn programming (Python is popular for AI)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Study mathematics&lt;/strong&gt;: Focus on statistics, linear algebra, and calculus&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Start with ML frameworks&lt;/strong&gt;: TensorFlow, PyTorch, or scikit-learn&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Join communities&lt;/strong&gt;: Participate in AI discussions and competitions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Practical projects&lt;/strong&gt;: Apply AI to solve real problems&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;the-future-of-ai&#34;&gt;The Future of AI
+&lt;/h2&gt;&lt;p&gt;The future of AI holds exciting possibilities:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;More natural human-computer interaction&lt;/li&gt;
+&lt;li&gt;Advances in healthcare and scientific research&lt;/li&gt;
+&lt;li&gt;Smarter cities and infrastructure&lt;/li&gt;
+&lt;li&gt;New creative applications in art and design&lt;/li&gt;
+&lt;li&gt;Ethical AI systems with built-in fairness&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As AI continues to evolve, it will remain a transformative force in technology and society, offering both unprecedented opportunities and important challenges to address.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

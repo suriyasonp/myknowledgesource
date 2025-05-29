@@ -1,19 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Reading on TECHFOR by suriyasonphu</title>
-    <link>http://localhost:1313/tags/reading/</link>
-    <description>Recent content in Reading on TECHFOR by suriyasonphu</description>
-    <generator>Hugo -- 0.147.5</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 24 May 2025 09:15:00 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/reading/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>การพัฒนาจิตใจผ่านการอ่าน</title>
-      <link>http://localhost:1313/posts/2025-05-24-reading-mindfulness/</link>
-      <pubDate>Sat, 24 May 2025 09:15:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2025-05-24-reading-mindfulness/</guid>
-      <description>การอ่านไม่เพียงแต่เพิ่มพูนความรู้ แต่ยังเป็นเครื่องมือสำคัญในการพัฒนาจิตใจ เสริมสร้างความเข้าใจในชีวิตและสังคม</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Reading on TECHFOR by suriyasonphu</title>
+        <link>http://localhost:50092/tags/reading/</link>
+        <description>Recent content in Reading on TECHFOR by suriyasonphu</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Sat, 24 May 2025 09:15:00 +0700</lastBuildDate><atom:link href="http://localhost:50092/tags/reading/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>การพัฒนาจิตใจผ่านการอ่าน</title>
+        <link>http://localhost:50092/post/reading-mindfulness/</link>
+        <pubDate>Sat, 24 May 2025 09:15:00 +0700</pubDate>
+        
+        <guid>http://localhost:50092/post/reading-mindfulness/</guid>
+        <description>&lt;h1 id=&#34;การพฒนาจตใจผานการอาน&#34;&gt;การพัฒนาจิตใจผ่านการอ่าน
+&lt;/h1&gt;&lt;p&gt;การอ่านเป็นมากกว่าการรับรู้ข้อมูล เป็นการเดินทางเข้าไปในโลกภายในและการเชื่อมต่อกับความเป็นมนุษย์&lt;/p&gt;
+&lt;h2 id=&#34;พลงของการอานตอจตใจ&#34;&gt;พลังของการอ่านต่อจิตใจ
+&lt;/h2&gt;&lt;p&gt;การอ่านหนังสืออย่างใส่ใจช่วยให้เราได้พบกับมุมมองใหม่ๆ ที่อาจไม่เคยนึกถึงมาก่อน ทำให้เกิดการย้อนมองตนเองและเข้าใจผู้อื่นมากขึ้น&lt;/p&gt;
+&lt;h3 id=&#34;การอานกบการเจรญสต&#34;&gt;การอ่านกับการเจริญสติ
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;ฝึกการจดจ่อ&lt;/strong&gt;: การอ่านต้องการความจดจ่อ เป็นการฝึกสมาธิรูปแบบหนึ่ง&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;การเชื่อมโยงอารมณ์&lt;/strong&gt;: วรรณกรรมที่ดีจะกระตุ้นให้เกิดอารมณ์ร่วม ทำให้เข้าใจความรู้สึกมนุษย์ลึกซึ้งขึ้น&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;การเปิดใจ&lt;/strong&gt;: เรื่องราวต่างๆ ช่วยให้เราเปิดใจยอมรับมุมมองที่แตกต่าง&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;หนงสอแนะนำเพอการพฒนาจตใจ&#34;&gt;หนังสือแนะนำเพื่อการพัฒนาจิตใจ
+&lt;/h2&gt;&lt;p&gt;การเลือกหนังสือที่เหมาะสมเป็นกุญแจสำคัญในการพัฒนาจิตใจ หนังสือแนะนำมีดังนี้:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;สติในชีวิตประจำวัน&lt;/strong&gt; โดย ติช นัท ฮันห์ - แนวทางการฝึกสติที่เรียบง่ายแต่ลึกซึ้ง&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Power of Now&lt;/strong&gt; โดย Eckhart Tolle - การอยู่กับปัจจุบันขณะและการปล่อยวาง&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;พุทธศาสนากับวิทยาศาสตร์&lt;/strong&gt; โดย พระพรหมคุณาภรณ์ (ป.อ. ปยุตฺโต) - การเชื่อมโยงปรัชญาตะวันออกกับความรู้สมัยใหม่&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;บทสรป&#34;&gt;บทสรุป
+&lt;/h2&gt;&lt;p&gt;การอ่านด้วยความใส่ใจเป็นเครื่องมือสำคัญในการพัฒนาจิตใจ เราสามารถเลือกอ่านหนังสือที่กระตุ้นความคิด สร้างแรงบันดาลใจ และส่งเสริมให้เกิดการย้อนมองตนเอง ผ่านวรรณกรรม เราสามารถเดินทางไปในภูมิปัญญาที่สั่งสมมาตลอดประวัติศาสตร์มนุษยชาติ และพัฒนาจิตใจให้มีความสงบและเข้าใจโลกรอบตัวมากขึ้น&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

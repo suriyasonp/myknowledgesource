@@ -1,19 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Frontend on TECHFOR by suriyasonphu</title>
-    <link>http://localhost:1313/tags/frontend/</link>
-    <description>Recent content in Frontend on TECHFOR by suriyasonphu</description>
-    <generator>Hugo -- 0.147.5</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 28 May 2025 10:00:00 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/frontend/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Future of Web Development</title>
-      <link>http://localhost:1313/posts/2025-05-28-future-web-development/</link>
-      <pubDate>Wed, 28 May 2025 10:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2025-05-28-future-web-development/</guid>
-      <description>Exploring modern web development trends, frameworks, and the evolution of frontend and backend technologies</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Frontend on TECHFOR by suriyasonphu</title>
+        <link>http://localhost:50092/tags/frontend/</link>
+        <description>Recent content in Frontend on TECHFOR by suriyasonphu</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Wed, 28 May 2025 10:00:00 +0700</lastBuildDate><atom:link href="http://localhost:50092/tags/frontend/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>The Future of Web Development</title>
+        <link>http://localhost:50092/post/future-web-development/</link>
+        <pubDate>Wed, 28 May 2025 10:00:00 +0700</pubDate>
+        
+        <guid>http://localhost:50092/post/future-web-development/</guid>
+        <description>&lt;h1 id=&#34;the-future-of-web-development&#34;&gt;The Future of Web Development
+&lt;/h1&gt;&lt;p&gt;Web development continues to evolve at a rapid pace, with new frameworks, tools, and methodologies emerging regularly. In this post, we&amp;rsquo;ll explore the current trends and what the future holds for web developers.&lt;/p&gt;
+&lt;h2 id=&#34;current-trends&#34;&gt;Current Trends
+&lt;/h2&gt;&lt;p&gt;The web development landscape is dominated by JavaScript frameworks like React, Vue, and Angular on the frontend, while Node.js, Django, and Laravel remain popular for backend development. Progressive Web Apps (PWAs) continue to blur the line between web and mobile applications, offering offline capabilities and app-like experiences.&lt;/p&gt;
+&lt;h2 id=&#34;emerging-technologies&#34;&gt;Emerging Technologies
+&lt;/h2&gt;&lt;p&gt;Several emerging technologies are set to reshape web development:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;WebAssembly (WASM)&lt;/strong&gt;: Enabling high-performance applications to run in the browser&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edge Computing&lt;/strong&gt;: Moving computation closer to the user for faster responses&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Serverless Architecture&lt;/strong&gt;: Allowing developers to focus on code rather than infrastructure&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI and Machine Learning Integration&lt;/strong&gt;: Adding intelligent features to web applications&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Web3 Technologies&lt;/strong&gt;: Incorporating blockchain and decentralized systems&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;changes-in-frontend-development&#34;&gt;Changes in Frontend Development
+&lt;/h2&gt;&lt;p&gt;Frontend development is becoming increasingly sophisticated:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Component-Based Architecture&lt;/strong&gt;: Building UIs from reusable, isolated pieces&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Micro-Frontends&lt;/strong&gt;: Breaking down frontend monoliths into smaller, manageable applications&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CSS-in-JS and Utility-First CSS&lt;/strong&gt;: New approaches to styling applications&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;State Management Evolution&lt;/strong&gt;: Moving beyond Redux to simpler solutions like Context API and Zustand&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TypeScript Adoption&lt;/strong&gt;: Adding static typing to JavaScript for improved developer experience&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;backend-evolution&#34;&gt;Backend Evolution
+&lt;/h2&gt;&lt;p&gt;Backend technologies are also evolving:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;API-First Development&lt;/strong&gt;: Designing APIs before implementing them&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GraphQL Adoption&lt;/strong&gt;: Providing more efficient data fetching than traditional REST&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Containerization and Orchestration&lt;/strong&gt;: Using Docker and Kubernetes for consistent deployment&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Microservices Architecture&lt;/strong&gt;: Breaking down monoliths into smaller, specialized services&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Database Diversity&lt;/strong&gt;: Embracing both SQL and NoSQL solutions depending on use cases&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;developer-experience-improvements&#34;&gt;Developer Experience Improvements
+&lt;/h2&gt;&lt;p&gt;The focus on developer experience continues to grow:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Better Developer Tools&lt;/strong&gt;: Improved debugging, testing, and monitoring&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Low-Code/No-Code Platforms&lt;/strong&gt;: Enabling faster development for certain use cases&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DevOps and CI/CD Integration&lt;/strong&gt;: Automating testing and deployment processes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Documentation as Code&lt;/strong&gt;: Treating documentation with the same importance as code itself&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion
+&lt;/h2&gt;&lt;p&gt;The future of web development lies in creating faster, more efficient, and more user-friendly applications. Developers who stay adaptable and continue learning will thrive in this constantly changing landscape. As technologies evolve, the fundamental principles of good web development—performance, accessibility, and user experience—remain as important as ever.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

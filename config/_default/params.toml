@@ -1,0 +1,5 @@
+# This file allows you to override default theme settings
+
+[article]
+    [article.license]
+        enabled = false

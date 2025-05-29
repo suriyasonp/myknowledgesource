@@ -1,26 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Categories on TECHFOR by suriyasonphu</title>
-    <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on TECHFOR by suriyasonphu</description>
-    <generator>Hugo -- 0.147.5</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 28 May 2025 10:00:00 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Technology</title>
-      <link>http://localhost:1313/categories/technology/</link>
-      <pubDate>Wed, 28 May 2025 10:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/categories/technology/</guid>
-      <description>Posts about technology, programming, AI, and digital innovation</description>
-    </item>
-    <item>
-      <title>Stay Reading</title>
-      <link>http://localhost:1313/categories/stay-reading/</link>
-      <pubDate>Tue, 27 May 2025 15:30:00 +0700</pubDate>
-      <guid>http://localhost:1313/categories/stay-reading/</guid>
-      <description>Thoughtful articles about life, philosophy, self-improvement, and mindful living</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on TECHFOR by suriyasonphu</title>
+        <link>http://localhost:50092/categories/</link>
+        <description>Recent content in Categories on TECHFOR by suriyasonphu</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Wed, 28 May 2025 10:00:00 +0700</lastBuildDate><atom:link href="http://localhost:50092/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Technology</title>
+        <link>http://localhost:50092/categories/technology/</link>
+        <pubDate>Wed, 28 May 2025 10:00:00 +0700</pubDate>
+        
+        <guid>http://localhost:50092/categories/technology/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Stay Reading</title>
+        <link>http://localhost:50092/categories/stay-reading/</link>
+        <pubDate>Tue, 27 May 2025 15:30:00 +0700</pubDate>
+        
+        <guid>http://localhost:50092/categories/stay-reading/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Test</title>
+        <link>http://localhost:50092/categories/test/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:50092/categories/test/</guid>
+        <description>&lt;img src="http://localhost:50092/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        </item>
+        
+    </channel>
 </rss>

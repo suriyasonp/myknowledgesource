@@ -1,88 +1,122 @@
 baseURL = "https://suriyasonphu.com"
 languageCode = "en"
 title = "TECHFOR by suriyasonphu"
-theme = "PaperMod"
+theme = "hugo-theme-stack"
 
+# Basic settings
+[pagination]
+  pagerSize = 5
+rssLimit = 10
 enableRobotsTXT = true
+enableEmoji = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
 
 # Taxonomy configuration
 [taxonomies]
   category = "categories"
   tag = "tags"
-
-# PaperMod specific configurations
-paginate = 5
-enableRobotsTXT = true
-buildDrafts = false
-buildFuture = false
-buildExpired = false
-enableEmoji = true
+  series = "series"
 
 [minify]
   disableXML = true
   minifyOutput = true
 
+# Stack theme parameters
 [params]
-  env = "production"
-  description = "A blog about technology and knowledge sharing by Suriya Sonphu | บล็อกนี้ใช้สำหรับแบ่งปันความรู้ทั่วไปที่เกิดจากการอ่านและศึกษาอย่างไม่สิ้นสุด หมวดหมู่พัฒนาตนเอง จิตวิทยา เทคโนโลยี การเขียนโปรแกรม"
+  mainSections = ["post", "posts"]
+  description = "A blog about technology and knowledge sharing by Suriya Sonphu"
   keywords = ["สุริยา สนภู่", "suriyasonphu", "Suriya Sonphu" ,"blog", "technology", "programming", "dailylife", "reading"]
-  author = "Suriya Sonphu"
-  DateFormat = "January 2, 2006"
-  defaultTheme = "auto"
-  disableThemeToggle = false
-  mainSections = ["posts"]
+  
+  [params.dateFormat]
+    published = "Jan 02, 2006"
+    lastUpdated = "Jan 02, 2006 15:04 MST"
 
-  ShowReadingTime = true
-  ShowShareButtons = true
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
-  ShowWordCount = true
-  ShowRssButtonInSectionTermList = true
-  UseHugoToc = true
-  disableSpecial1stPost = false
-  disableScrollToTop = false
-  comments = false
-  hidemeta = false
-  hideSummary = false
-  showtoc = false
-  tocopen = false
+  [params.footer]
+    since = 2023
+    customText = ""
 
-  [params.assets]
-    favicon = "/assets/favicon/favicon.ico"
-    favicon16x16 = "/assets/favicon/favicon-16x16.png"
-    favicon32x32 = "/assets/favicon/favicon-32x32.png"
-    customCSS = ["css/custom.css"]
+  [params.opengraph]
+    defaultImage = ""
 
+  [params.sidebar]
+    emoji = "🧠"
+    subtitle = "Knowledge sharing blog about technology and life"
+    
+    [params.sidebar.avatar]
+      enabled = false
+      local = false
+      src = ""
+
+  [params.article]
+    math = false
+    readingTime = true
+    
+    [params.article.toc]
+      enabled = true
+    
+    [params.article.code]
+      copy = true
+      maxLines = 50
+      style = "github"
+
+  [params.comments]
+    enabled = false
+
+  [params.widgets]
+    enabled = ["search", "archives", "tag-cloud", "categories"]
+    
+    [params.widgets.archives]
+      limit = 5
+      
+    [params.widgets.tagCloud]
+      limit = 20
+
+    [params.widgets.categories]
+      limit = 10
+
+# Menu navigation
 [menu]
   [[menu.main]]
     identifier = "home"
     name = "Home"
     url = "/"
     weight = 10
+    [menu.main.params]
+      icon = "home"
+      
   [[menu.main]]
     identifier = "posts"
     name = "Posts"
-    url = "/posts/"
+    url = "/post/"
     weight = 20
+    [menu.main.params]
+      icon = "archives"
+      
   [[menu.main]]
     identifier = "categories"
     name = "Categories"
     url = "/categories/"
     weight = 30
+    [menu.main.params]
+      icon = "categories"
 
   [[menu.main]]
     identifier = "stay-reading"
     name = "Stay Reading"
     url = "/categories/stay-reading/"
     weight = 50
+    [menu.main.params]
+      icon = "messages"
   
   [[menu.main]]
     identifier = "technologies"
     name = "Technology"
     url = "/categories/technology/"
     weight = 40
-  
+    [menu.main.params]
+      icon = "hash"
 
 [markup]
   [markup.highlight]

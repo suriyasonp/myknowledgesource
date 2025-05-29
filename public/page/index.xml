@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on TECHFOR by suriyasonphu</title>
+        <link>http://localhost:50092/page/</link>
+        <description>Recent content in Pages on TECHFOR by suriyasonphu</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:50092/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>http://localhost:50092/page/about/</link>
+        <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:50092/page/about/</guid>
+        <description>&lt;h1 id=&#34;about-techfor-blog&#34;&gt;About TECHFOR Blog
+&lt;/h1&gt;&lt;p&gt;This is a blog about technology and knowledge sharing by Suriya Sonphu. The blog covers various topics including technology, programming, self-development, psychology, and reading.&lt;/p&gt;
+&lt;h2 id=&#34;about-the-author&#34;&gt;About the Author
+&lt;/h2&gt;&lt;p&gt;Suriya Sonphu is passionate about technology, continuous learning, and sharing knowledge with others.&lt;/p&gt;
+&lt;h2 id=&#34;blog-focus&#34;&gt;Blog Focus
+&lt;/h2&gt;&lt;p&gt;This blog focuses on several key areas:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Technology&lt;/strong&gt;: Exploring the latest trends and developments in the tech world&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Programming&lt;/strong&gt;: Sharing code snippets, tutorials, and best practices&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reading&lt;/strong&gt;: Book reviews and insights gained from continuous reading&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Personal Growth&lt;/strong&gt;: Techniques and strategies for lifelong learning&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;contact&#34;&gt;Contact
+&lt;/h2&gt;&lt;p&gt;Feel free to reach out if you have any questions or suggestions for content!&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>http://localhost:50092/page/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:50092/page/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Links</title>
+        <link>http://localhost:50092/page/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:50092/page/links/</guid>
+        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
+&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;
+  &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;
+    &lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;links:
+  - title: GitHub
+    description: GitHub is the world&#39;s largest software development platform.
+    website: https://github.com
+    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: TypeScript
+    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+    website: https://www.typescriptlang.org
+    image: ts-logo-128.jpg&lt;/code&gt;
+  &lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>http://localhost:50092/page/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:50092/page/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

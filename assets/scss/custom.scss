@@ -1,0 +1,107 @@
+/* Custom styles for Stack theme */
+
+// Increase main content width
+:root {
+    --main-width: 1200px;
+    --content-gap: 3rem;
+    --body-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+// Custom article styling
+.article-list article {
+    margin-bottom: 3rem;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.article-list article:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+// Make the first (latest) post more prominent
+.article-list article:first-child {
+    border: 2px solid var(--card-background);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    position: relative;
+}
+
+.article-list article:first-child::before {
+    content: "Latest";
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: var(--accent-color);
+    color: #fff;
+    padding: 5px 10px;
+    font-size: 0.8rem;
+    border-radius: 0 0 0 5px;
+    z-index: 1;
+}
+
+.article-list article:first-child .article-title {
+    font-size: 1.8em;
+}
+
+// Enhance category cards
+.categories-card .card-item {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.categories-card .card-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+// Better typography
+.article-content {
+    line-height: 1.7;
+    font-size: 1.05rem;
+}
+
+.article-content h1,
+.article-content h2,
+.article-content h3,
+.article-content h4 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.article-content blockquote {
+    border-left: 4px solid var(--accent-color);
+    padding-left: 1rem;
+    font-style: italic;
+    color: var(--card-text-color-secondary);
+}
+
+// Sidebar enhancements
+.sidebar {
+    .site-avatar {
+        margin-bottom: 1rem;
+    }
+
+    .site-name {
+        font-weight: 700;
+    }
+}
+
+// Responsive adjustments
+@media (max-width: 1400px) {
+    :root {
+        --main-width: 1000px;
+    }
+}
+
+@media (max-width: 768px) {
+    .article-list article:first-child::before {
+        font-size: 0.7rem;
+        padding: 3px 8px;
+    }
+
+    .article-list article:first-child .article-title {
+        font-size: 1.5em;
+    }
+}
